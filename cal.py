@@ -13,7 +13,6 @@ while True:
     num2 = float(input("Enter second number:"))
     
     if choice in ('+','-','*','/'):
-        # num1 = float(input("Enter first number:"))
 
         if choice == '+':
             print(num1,"+",num2,"=", addition(num1,num2))
