@@ -1,2 +1,2 @@
 # cal
-playing 
+create calcultor for learnning purpose
