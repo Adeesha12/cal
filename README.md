@@ -1,2 +1,3 @@
 # cal
-create calcultor for learnning purpose
+create calculator for learnning purpose
+basic to advance
